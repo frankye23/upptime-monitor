@@ -22,7 +22,7 @@
     "url": "https://dev.stake.dxpool.in",
     "icon": "https://icons.duckduckgo.com/ip3/dev.stake.dxpool.in.ico",
     "slug": "staking-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 600,
     "timeYear": 589,
     "dailyMinutesDown": {
+      "2024-02-27": 0,
       "2024-01-30": 186,
       "2024-01-29": 839,
       "2024-01-12": 89,
