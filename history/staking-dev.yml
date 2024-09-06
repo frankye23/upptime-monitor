@@ -1,7 +1,7 @@
 url: https://dev.stake.dxpool.in
-status: up
-code: 200
-responseTime: 659
-lastUpdated: 2024-09-06T04:07:51.197Z
+status: down
+code: 502
+responseTime: 676
+lastUpdated: 2024-09-06T06:20:13.011Z
 startTime: 2023-12-04T03:22:01.581Z
 generator: Upptime <https://github.com/upptime/upptime>
