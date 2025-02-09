@@ -104,19 +104,19 @@
     "url": "https://www.dxpool.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.dxpool.com.ico",
     "slug": "dx-pool",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 662,
-    "timeDay": 674,
-    "timeWeek": 592,
-    "timeMonth": 639,
-    "timeYear": 664,
+    "timeDay": 704,
+    "timeWeek": 611,
+    "timeMonth": 643,
+    "timeYear": 665,
     "dailyMinutesDown": {
-      "2025-02-09": 0
+      "2025-02-09": 7
     }
   }
 ]
