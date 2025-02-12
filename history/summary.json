@@ -23,10 +23,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.stake.dxpool.in.ico",
     "slug": "staking-dev",
     "status": "up",
-    "uptime": "87.59%",
+    "uptime": "87.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.97%",
+    "uptimeMonth": "88.79%",
     "uptimeYear": "85.40%",
     "time": 603,
     "timeDay": 632,
@@ -104,17 +104,19 @@
     "url": "https://www.dxpool.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.dxpool.com.ico",
     "slug": "dx-pool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 662,
-    "timeDay": 700,
-    "timeWeek": 636,
-    "timeMonth": 637,
+    "timeDay": 635,
+    "timeWeek": 629,
+    "timeMonth": 635,
     "timeYear": 665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   }
 ]
