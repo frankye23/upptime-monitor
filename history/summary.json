@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 368,
-    "timeWeek": 294,
-    "timeMonth": 264,
-    "timeYear": 183,
+    "timeDay": 184,
+    "timeWeek": 276,
+    "timeMonth": 260,
+    "timeYear": 184,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "85.40%",
-    "time": 604,
-    "timeDay": 914,
-    "timeWeek": 616,
-    "timeMonth": 628,
+    "time": 605,
+    "timeDay": 512,
+    "timeWeek": 613,
+    "timeMonth": 623,
     "timeYear": 610,
     "dailyMinutesDown": {
       "2025-01-16": 391,
@@ -95,8 +95,7 @@
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
-      "2024-02-28": 1440,
-      "2024-02-27": 934
+      "2024-02-28": 1440
     }
   },
   {
@@ -106,17 +105,15 @@
     "slug": "dx-pool",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 661,
-    "timeDay": 671,
-    "timeWeek": 649,
-    "timeMonth": 648,
-    "timeYear": 663,
-    "dailyMinutesDown": {
-      "2025-02-25": 8
-    }
+    "timeDay": 616,
+    "timeWeek": 647,
+    "timeMonth": 643,
+    "timeYear": 662,
+    "dailyMinutesDown": {}
   }
 ]
