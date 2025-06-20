@@ -4,18 +4,20 @@
     "url": "https://stake.dxpool.com",
     "icon": "https://icons.duckduckgo.com/ip3/stake.dxpool.com.ico",
     "slug": "staking-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 403,
-    "timeWeek": 292,
-    "timeMonth": 315,
-    "timeYear": 239,
-    "dailyMinutesDown": {}
+    "time": 208,
+    "timeDay": 423,
+    "timeWeek": 311,
+    "timeMonth": 319,
+    "timeYear": 240,
+    "dailyMinutesDown": {
+      "2025-06-20": 0
+    }
   },
   {
     "name": "Staking Dev",
