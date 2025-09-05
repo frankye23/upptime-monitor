@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 397,
-    "timeWeek": 340,
-    "timeMonth": 311,
-    "timeYear": 269,
+    "time": 240,
+    "timeDay": 353,
+    "timeWeek": 342,
+    "timeMonth": 309,
+    "timeYear": 270,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.stake.dxpool.in.ico",
     "slug": "staking-dev",
     "status": "up",
-    "uptime": "91.50%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptime": "91.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "96.84%",
     "time": 621,
     "timeDay": 696,
-    "timeWeek": 683,
+    "timeWeek": 686,
     "timeMonth": 634,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2025-09-04": 7,
       "2025-07-23": 16,
       "2025-07-15": 104,
       "2025-06-20": 28,
@@ -59,8 +58,7 @@
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
-      "2024-10-07": 1148,
-      "2024-09-05": 15
+      "2024-10-07": 1148
     }
   },
   {
@@ -75,8 +73,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 682,
-    "timeDay": 821,
-    "timeWeek": 795,
+    "timeDay": 767,
+    "timeWeek": 786,
     "timeMonth": 841,
     "timeYear": 686,
     "dailyMinutesDown": {
