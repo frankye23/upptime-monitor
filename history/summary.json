@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 296,
-    "timeWeek": 281,
+    "time": 275,
+    "timeDay": 281,
+    "timeWeek": 291,
     "timeMonth": 285,
     "timeYear": 311,
     "dailyMinutesDown": {}
@@ -24,17 +24,16 @@
     "slug": "staking-dev",
     "status": "up",
     "uptime": "92.40%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "98.25%",
     "time": 622,
-    "timeDay": 624,
-    "timeWeek": 585,
+    "timeDay": 633,
+    "timeWeek": 599,
     "timeMonth": 598,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-11-20": 8,
       "2025-11-06": 48,
       "2025-10-13": 56,
       "2025-09-23": 23,
@@ -55,8 +54,7 @@
       "2025-01-11": 1440,
       "2025-01-10": 874,
       "2024-12-03": 67,
-      "2024-11-22": 22,
-      "2024-11-21": 23
+      "2024-11-22": 22
     }
   },
   {
@@ -71,9 +69,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 683,
-    "timeDay": 638,
-    "timeWeek": 618,
-    "timeMonth": 655,
+    "timeDay": 729,
+    "timeWeek": 652,
+    "timeMonth": 656,
     "timeYear": 685,
     "dailyMinutesDown": {
       "2025-10-23": 34,
